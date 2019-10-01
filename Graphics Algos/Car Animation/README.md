@@ -8,7 +8,7 @@ It has been drawn using the line function in the graphics library.
 The animation takes place by the concept of translation.
 We've put the car in a for loop incrementing the values of x co-ordinates of all the line functions by i
 
-The final out put will look this way!
+The final output will look this way!
 
 ![screenshot from 2017-12-16 15-52-31](https://user-images.githubusercontent.com/26206171/34069730-d0f448d6-e27c-11e7-9a34-17603028a4ec.png)
 ![screenshot from 2017-12-16 15-52-35](https://user-images.githubusercontent.com/26206171/34069731-d5130948-e27c-11e7-882e-2d9ca7c00f0b.png)

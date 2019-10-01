@@ -16,6 +16,7 @@
 
 ### About the Project
 
+An algorithm (pronounced AL-go-rith-um) is basically a procedure or formula which is used to solve a problem, based on conducting a sequence of specified actions. A computer program can be also seen as an elaborate algorithm. In mathematics and computer science, an algorithm is usually described as a small procedure that solves a recurrent problem.
 This repository contains some of the most **intriguing and awesome algorithms** of daily life implemented in languages primarily in C/C++/Java/Python.
 
 --------------------------------------------------------------
